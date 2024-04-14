@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="Estonian Design Hub" width="200">
+  <img src="./logo.png" alt="Estonian Design Hub" width="180">
 </div>
 
 # Estonian Design Hub 🎨
